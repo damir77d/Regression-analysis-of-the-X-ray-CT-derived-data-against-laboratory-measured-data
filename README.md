@@ -18,3 +18,5 @@ This file can be reproduced by the files listed above and contains, in addition 
 
 ### volumetric_contents_highRes_all.csv
 This file can be reproduced by the files listed above and contains, in addition to the data contained in volumetric_contents_highRes_CT.csv, the volumetric contents of pore ice, total ice, mineral, and organic as predicted by the regression model at the same (high) resolution as the original CT data.
+
+![PLOT](plot.png)

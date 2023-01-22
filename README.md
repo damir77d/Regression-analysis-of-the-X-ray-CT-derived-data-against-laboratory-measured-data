@@ -2,7 +2,7 @@
 
 This code was initially created for my master's thesis: *Gadylyaev, D. (2021): Applying Computed Tomography (CT) scanning for segmentation of permafrost constituents in drill cores , Master thesis, University of Potsdam, Institute of Geosciences.* https://epic.awi.de/id/eprint/55281/
 
-and after which it turned into a scientific paper (currently preprint): *Nitzbon, J., Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., and Boike, J.: Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, The Cryosphere, 16, 3507–3515, https://doi.org/10.5194/tc-16-3507-2022, 2022.*
+and after which it turned into a scientific paper: *Nitzbon, J., Gadylyaev, D., Schlüter, S., Köhne, J. M., Grosse, G., and Boike, J.: Brief communication: Unravelling the composition and microstructure of a permafrost core using X-ray computed tomography, The Cryosphere, 16, 3507–3515, https://doi.org/10.5194/tc-16-3507-2022, 2022.*
 
 ### regression analysis_paper.py
 This pyhton script uses the below listed input files to perform and evaluate a regression analysis of the CT data against the laboratory data. The regression result is the composition of the CT-derived sediment phases (A,B) in terms of pore ice, organic, and mineral. The script furthermore computes evaluation metrics of the lab-CT comparison, and computes volumetric contents of pore ice, total ice, organic, and mineral at the high resolution of the original CT data.
